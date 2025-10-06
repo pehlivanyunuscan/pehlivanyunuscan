@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yunus Can</h1>
 <h3 align="center">I’m a software developer who is passionate about learning new technologies. I enjoy developing in the fields of back-end and DevOps.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pehlivanyunuscan" alt="pehlivanyunuscan" /></a> </p>
-
 - 📫 How to reach me **pehlivanyunuscan@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
